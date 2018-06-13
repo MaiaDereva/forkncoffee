@@ -112,13 +112,22 @@ Des cartes géogrpahiques ? Non ! Des paysages de données commentées par celle
 
 Forkncoffee est simple site internet avec des cartes et des publications ? Non ! Car il peut facilement devenir l'outil qu'une personne copie et modifie pour l'adapter aux besoins d'autres micro groupes sociaux (AMAPa, FabLabs, fédérations des amateurs de cerf-volant, professionnel de la micro-brasserie...)
 
+**Exemples** :
+
+Le plus bel espace pour faire tiers-lieu ou coworking à Nantes ets la serre tropicale du jardin des plantes, il est gratuit et asses bien équipé et confortable, mais presque personnenes sait que ces condtions sont réunies pour faire tiers-lieu.
+
+![](/assets/blog/images/serre_nantes.jpeg)
+
+À Rennes, un ajrdin de 300 m² sur les bord de la rivière est le contexte méconnu pour se rassembler et travailler à plusieursn sans obligaoirement se connaître en amont, en s'enageant dans une représenation commune et des repsonabbilités partagées.
+![](/assets/blog/images/rennes-jardin.jpg)
+
 ## Intentions
 
 Tout en aprenant et en concevant un prototype technologique partagé et documenté au jour le jour, il est important d'essayer d'apporter les conditions nouvelles pour répondre aux problèmes décrits précédemment. Il s'agit de prototyper en itération permanente, de sortir des cartes de routes (roadmap) pour tenter un fonctionnement en chaos (chaos map), de collaborer au mieux à plusieur et de documenter techniques, méthologies et technologies en temps quasi instantané. 
 
 ### Proposition de valeur
 
-_en cours de rédaction_
+Refaire le monde en tiers-lieux libres et open source en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés)
 
 ### Gouvernance
 
@@ -134,7 +143,7 @@ _en cours de rédaction_
 
 #### Comment
 
-_en cours de rédaction ; **pattern**, **strutures libres** et **strates**_
+_en cours de rédaction ; **pattern**, **structures libres** et **strates**_
 
 ![](/assets/blog/images/layerscommonslandscape_2.jpg)
 
@@ -144,7 +153,16 @@ Faire Paysages en Communs
 
 ### Objet de l'action
 
-_en cours de rédaction_
+Forkhcoffee a pour objet de faciliter, via une une application web en lange de programmation elm, les possibilités pour un plus grand nombre de personne de « [refaire le monde en tiers-lieu](http://movilab.org/index.php?title=Refaire_le_monde_en_tiers-lieu) ».
+
+1. **favoriser une configuration sociale** par les _patterns_ :  ce qu’est le tiers-lieu avant toute chose. Le terme de tiers-lieu désigne une structure relationnelle entre des êtres humains dans un environnement (technique et non technique). Prenons pour exemple le cas où plusieurs personnes sont rassemblées dans un serre pblique et qu’elles participent à une même situation de création, qui pourraient une seéance de pair programming. Dès lors, ce que l’on nomme « configuration sociale » est l’ensemble des tensions, des actions, des interdépendances et des relations réciproques qui se nouent entre les personnes. De cette perspective, le tiers-lieu est compris comme la structure globale que forment les personnes lorsqu’elles sont réunies par cette même activité.
+
+2. **faciliter des rencontres entre des entités individuées** par _les structures libres_ : la condition minimale pour qu’il y ait tiers-lieu. Deux entités indépendantes se réunissent et interagissent dans un lieu identifié. Peu importe les raisons de leur rencontre, c’est celle-ci – dans sa temporalité et sa géographie – qui fait d’un endroit quelconque ou d’une place anonyme le lieu. La rencontre qui « fait le lieu » peut advenir autant sur une place publique dans une ville, un bâtiment en friche, une maison particulière, une gare ou un commerce de proximité, un laboratoire citoyen de fabrication numérique...
+
+3. **Catalyser un engagement intentionnel** par les _strates_: entre les personnes (entités/mondes différents) voit le jour grâce à la rencontre. Puisqu’il n’y a pas de lien formel en amont de la rencontre, les personnes discutent des termes de leur engagement. Elles entrent en négociation pour parvenir à un accord qui peut être le fruit d’un compromis, d’un consensus (apparent ou réel), d’un consentement mutuel ou bien d’une décision autoritaire de l’une des personnes derrière laquelle les autres se replient volontairement
+
+4. **Co-cartographier des paysages communs** : 
+
 
 ### Temps de travail
 
