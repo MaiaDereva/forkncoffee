@@ -32,13 +32,13 @@ Déclaration d'intentions et contexte du projet Forkncoffe, conception de platef
 
 Repenser la qualité de vie les conditions de travail et les productions attendues en appliquant les mêmes cultures et recettes que celles du 20ème siècle ne mènera pas à des résultats différents.
 
-Nous avons aujourd'huii presque toutes les briques culturelles, intelectuelles, technologiques et retours d'expériences, nécessaires à une mutation vers plus de soutenabilité. Mais nous marchons toujours dans les sentiers d'une indistialisation concentrative et en silo des conditions de travail. 
+Nous avons aujourd'hui presque toutes les briques culturelles, intelectuelles, technologiques et retours d'expériences, nécessaires à une mutation vers plus de soutenabilité. Mais nous marchons toujours dans les sentiers d'une industrialisation concentrative et en silo des conditions de travail. 
 
 Que pouvons-nous mettre en œuvre pour améliorer nos conditions et permettre à de meilleurs circonstances de voir le jour ?
 
 ### Origines
 
-Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d''exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, lors d'une baisse de la quantité d’oxygène dans l'eau des lagunesau corbonifère les tétropodes se sont mis à utiliser un sac repsiratoire (ancêtre des poumons) pour s'adapterà  la vie terrestre et la repsiration aérienne. Un organe qui n'était auparavnt pas utilisé lors de leur vie en milieu auqatique.
+Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d'exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, lors d'une baisse de la quantité d’oxygène dans l'eau des lagunesau corbonifère les tétropodes se sont mis à utiliser un sac repsiratoire (ancêtre des poumons) pour s'adapterà  la vie terrestre et la repsiration aérienne. Un organe qui n'était auparavnt pas utilisé lors de leur vie en milieu auqatique.
 
 > _Les exaptations sont la reconfiguration créative de la technologie par leurs utilisateurs, soit en tant que sous-produit d'une fonction précédente (co-optation), soit en tant que produit d'une fonction précédente (co-option). 
 
@@ -88,7 +88,7 @@ Les coworking et tiers-lieux libres et open source ont leur portail informationn
 
 Il y a des centaines d'intiatives d'agrégation des tiers-lieux, mais rien de décentralisé ni fédéré, prfois même avec des sutèmes non-libres. 
 
-Alors, comment aller vers des « Vers des espaces ouverts et partagés » [Simon Sarazin], nous avons besoins de favoriser des culturelles libres et de la compostabilité d'un écosystème.
+Alors, comment aller vers des « Vers des espaces ouverts et partagés » ([Simon Sarazin](http://simons.fr/blog/2016/12/21/vers-des-espaces-ouverts-et-partages/)), nous avons besoins de favoriser des culturelles libres et de la compostabilité d'un écosystème.
 
 De la compostabilité :
 + elle se pense et se prépare très en amont,
@@ -97,20 +97,21 @@ De la compostabilité :
 
 Rendre son projet compostable, c’est fertiliser les idées en les partageant et tendre vers des organisations plus vivantes, vivaces et vivables. (source [Romain Lalande](https://vecam.org/La-compostabilite-pour-un-ecosysteme-de-projets-vivaces))
 
-Il y a une galaxie d'initiatives tiers-lieux, tiers-jardin, coworking rural, graines libres, jardin partagé, artisans responsables et solidaires, bar alternatifs, qui voient leurs paysages se faire racheter ou dévorer par des industries de la centralisation et/ou être invisibilisé par des silos de la communication. 
+Il y a une galaxie d'initiatives tiers-lieux, tiers-jardin, coworking rural, graines libres, jardin partagé, artisans responsables et solidaires, bars alternatifs, qui voient leurs paysages se faire racheter ou dévorer par des industries de la centralisation et/ou être invisibilisé sous des silos de communication qui ne fournissent qu
 
-Nous n'avons pas encore franchi le passage vers une proposition d'ossature (framework) facilitant l'acquisition par l'expérience vécue des briques culturelles, intelectuelles, technologiques, pour déployer de façon distribuée les conditions et circonctances de recnontres pour laisser émergées de situations brisant les silos et concentrations en fournissant une décentralisation fédérée. 
-
+Nous n'avons pas encore franchi le passage vers une proposition d'ossature (framework) facilitant l'acquisition par l'expérience vécue des briques culturelles, intelectuelles, technologiques, pour déployer de façon distribuée les conditions et circonctances de rencontres pour laisser émergées de situations brisant les silos et concentrations en fournissant une décentralisation fédérée (voir [backlog](https://github.com/XavCC/forkncoffee/projects)).
 
 ### Visions
 
 Essayons de faire de forkncoffee une des étapes vers ces ossatures avec un prototype sous licence dans le domaine public, avec des documentations, blogging, cartes géographiques et jeux de données, distribués, décentralisés et fédérés.
 
-Forkncoffee est projet pour les rassembler et gouverner tous ? Non ! Car inverstigué pour être basé sur un principe de fédération (voir [backlog](https://github.com/XavCC/forkncoffee/projects/1).
+Forkncoffee est projet pour les rassembler et gouverner tous ? Non ! Car investigué pour être basé sur un principe de fédération (voir [backlog](https://github.com/XavCC/forkncoffee/projects/1)).
 
-Des cartes géogrpahiques ? Non ! Des paysages de données commentées par celles et ceux qui les font et non limitées à des frontières adminitratives ; et surtout des cartes, et non une carte, avec des intersctices qui penvent se chevaucher pour rendre visibles les interconnexionx entre les communautés de pratiques. 
+De simples cartes géographiques ? Non ! Des paysages de données commentées par celles et ceux qui les font et non limitées à des frontières adminitratives ; et surtout des cartes, et non une carte, avec des interstices, et non plus de frontières territoriales, qui penvent se chevaucher pour rendre visibles les interconnexions entre les communautés de pratiques. 
 
-Forkncoffee est simple site internet avec des cartes et des publications ? Non ! Car il peut facilement devenir l'outil qu'une personne copie et modifie pour l'adapter aux besoins d'autres micro groupes sociaux (AMAPa, FabLabs, fédérations des amateurs de cerf-volant, professionnel de la micro-brasserie...)
+Forkncoffee est simple site internet avec des cartes et des publications ? Non ! Car il peut facilement devenir l'outil qu'une personne copie et modifie pour l'adapter aux besoins d'autres micro groupes sociaux (AMAPa, FabLabs, fédérations des amateurs de cerf-volant, professionnel de la micro-brasserie...), par ces licences libres, par la documentations, par [le livre numérique](https://xavcc.gitbooks.io/elm-chaos/content), par les rencontres et les partages. 
+
+Nous devons réapprendre à comprendre nos techniques et nos outils, nous avons intérêts à réapprenndre àconcevoir par nous-même nos techniques et nos outils.
 
 **Exemples** :
 
@@ -123,23 +124,29 @@ Le plus bel espace pour faire tiers-lieu ou coworking à Nantes ets la serre tro
 
 ## Intentions
 
-Tout en aprenant et en concevant un prototype technologique partagé et documenté au jour le jour, il est important d'essayer d'apporter les conditions nouvelles pour répondre aux problèmes décrits précédemment. Il s'agit de prototyper en itération permanente, de sortir des cartes de routes (roadmap) pour tenter un fonctionnement en chaos (chaos map), de collaborer au mieux à plusieur et de documenter techniques, méthologies et technologies en temps quasi instantané. 
+Tout en aprenant et en concevant un prototype technologique partagé et documenté au jour le jour, il est important d'essayer d'apporter les conditions nouvelles pour répondre aux problèmes décrits précédemment. Il s'agit de prototyper en itération permanente, de sortir des cartes de routes (roadmap) pour tenter un fonctionnement chaotique (chaos map), de collaborer au mieux à plusieur et de documenter techniques, méthologies et technologies en temps quasi instantané. Ceci dans la visée de ne pas suivre un chemin unique déjà arpenté et balisé, mais de défricher des possibles et de s'ouvrir des champs de focntionnement dont les mécanismes de pensées ne sont pas les mêmes que les mécanismes de pesnées quiont engendrés ces problèmes. 
 
 ### Proposition de valeur
 
-Refaire le monde en tiers-lieux libres et open source en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés)
+Refaire le monde en tiers-lieux libres et open source en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés).
 
 ### Gouvernance
 
 _en cours de rédaction_
 
 #### Pourquoi
-
 _en cours de rédaction_
+
 #### Qui
 
-_en cours de rédaction_
+Forkncoffee est , au 1er juin 2018, porté et développé par Xavier Coadic. Du fait des intentions collaboratives du projet et des licences libres et domaines publiques des codes source et supports annexes, forkncoffee est explicitement ouvert à toute contribution, récupération, modification, sous respect des licences attribuées.
+
 #### Pourqui
+Porteuses ou porteurs de projets collabortifs et/ou coopératifs, individu cherchant des condtions de travail soutenables et partagées, collectif, artisans, entrepreneur⋅e, association, collectivité, entreprise, écoles, universités...
+
+Les mutations du travail et les mutations des conditions d'exercice de son travail ne sont pas limitées à un public cilble mais impactent l'ensmeblent de la population dans des paysages de vies. 
+
+Toute personne, ou organisation décidant de s'impliquer de près ou de loin dans forkncoffee, peut révendiquer le droit et les responsabilités de participer à la gouvernance partagée du projet localement ou globalement. 
 
 #### Comment
 
@@ -159,18 +166,19 @@ Forkhcoffee a pour objet de faciliter, via une une application web en lange de p
 
 2. **faciliter des rencontres entre des entités individuées** par _les structures libres_ : la condition minimale pour qu’il y ait tiers-lieu. Deux entités indépendantes se réunissent et interagissent dans un lieu identifié. Peu importe les raisons de leur rencontre, c’est celle-ci – dans sa temporalité et sa géographie – qui fait d’un endroit quelconque ou d’une place anonyme le lieu. La rencontre qui « fait le lieu » peut advenir autant sur une place publique dans une ville, un bâtiment en friche, une maison particulière, une gare ou un commerce de proximité, un laboratoire citoyen de fabrication numérique...
 
-3. **Catalyser un engagement intentionnel** par les _strates_: entre les personnes (entités/mondes différents) voit le jour grâce à la rencontre. Puisqu’il n’y a pas de lien formel en amont de la rencontre, les personnes discutent des termes de leur engagement. Elles entrent en négociation pour parvenir à un accord qui peut être le fruit d’un compromis, d’un consensus (apparent ou réel), d’un consentement mutuel ou bien d’une décision autoritaire de l’une des personnes derrière laquelle les autres se replient volontairement
+3. **Catalyser un engagement intentionnel** par les _strates_: un engagement entre les personnes (entités/mondes différents) voit le jour grâce à la rencontre. Puisqu’il n’y a pas de lien formel en amont de la rencontre, les personnes discutent des termes de leur engagement. Elles entrent en négociation pour parvenir à un accord qui peut être le fruit d’un compromis, d’un consensus (apparent ou réel), d’un consentement mutuel ou bien d’une décision autoritaire de l’une des personnes derrière laquelle les autres se replient volontairement
 
-4. **Co-cartographier des paysages communs** : 
-
+4. **Co-cartographier des paysages communs** : par l'appui de l'application forkncoffee permettant la cnception et le partage de documentation, de récits, ainsi que de carte géographiques des composés des tiers-lieux co-conçus par les circonstances de rencontres, un ensmeble de paysages communs se dessinent, sans être contraint par des limites administratives territoriales. Offrant ainsi un jardin de collaboration et d'expérimentation libre avec peu de silos, offrant également une nouvelle grille de lecture et d'analyse du concept tiers-lieu et de ses réalités environnementales, sociales et économiques.
 
 ### Temps de travail
 
-Forkncoffee est démarré au 1er juin 2018, la sortie prévue est 10 septembre 2018. 3 mois de travail sérieux et appliqué ainsi qu'un livre nuémrique alimenté pas à pas sur l'epérience d'apprentissage et de partage du langage elm et du porjet fokncoffee.
+Forkncoffee est démarré au 1er juin 2018, la sortie prévue est 10 septembre 2018. 3 mois de travail sérieux et appliqué ainsi qu'un livre nuémrique alimenté pas à pas sur l'epérience d'apprentissage et de partage du langage elm et du projet fokncoffee.
 
-C'est un temps délibérément choisi pour faciliter le compréhension et l'inétgration des conceptes en langage elm, c'est une temps permattant une démarche itérative non-linéaire d'apprentissage et de partage.
+C'est un temps délibérément choisi pour faciliter le compréhension et l'inétgration des concepts en langage elm, c'est un temps permettant une démarche itérative non-linéaire d'apprentissage et de partage, dméarche qu ipourrait être reproduite par la suite pour d'autre groupe apprenant. 
 
-Je souhaite inscrire cela dans un carte chaotique (choas map) par opposition à une carte de route (raodmap) standarisée afin de tester et de documenter cette expérience d'apprentissage par le faire qui ne rentre pas dans cahier des charges habituels. Ceci sera notamment matérialisé par l'écriture d'un livre numérique sous licence libre. 
+Je souhaite inscrire cela dans un carte chaotique (choas map) par opposition à une carte de route (raodmap) standarisée afin de tester et de documenter cette expérience d'apprentissage par le faire qui ne rentre pas dans cahier des charges habituels. Ceci sera notamment matérialisé par l'écriture d'un [livre numérique sous licence libre](https://xavcc.gitbooks.io/elm-chaos/content)). 
+
+![](/assets/blog/images/documentation.jpg)
 
 ### Argent
 
@@ -222,3 +230,4 @@ _en cours de rédaction_
 _En cours d'invetigation_
 
 # Remerciements
+Maïa Dereva, Émile Hooge, dr4Ke, pour vos soutiens des permiers jours. 
