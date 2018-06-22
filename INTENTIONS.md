@@ -61,7 +61,7 @@ Ce qui donne par exemple :
 
 ### Démarches liées et projets connectés
 
-Ces démarches et projest nourrissent les réfléxion sur les problématiques auxquelles forkncoffee tente de répondre, ils permettent également des apports méthodologiques, techniques et techologiques au projet.
+Ces démarches et projest nourrissent les réfléxions sur les problématiques auxquelles forkncoffee tente de répondre, elles permettent également des apports méthodologiques, techniques et techologiques au projet.
 
 + movilab.org, le wiki des tiers-lieux libres et open source - [contributeur](http://movilab.org/index.php?title=Utilisateur:XavCC)
 + [indiecamp](http://movilab.org/index.php?title=IndieCamp), format libre de tiers-lieux éphémère en milieu rural - fondateur-contributeur
@@ -132,7 +132,7 @@ Tout en aprenant et en concevant un prototype technologique partagé et document
 
 ### Proposition de valeur
 
-Là où les réseaux sociaux proposent un jugement de valeur ou une évaluation par « like » ou « votes » indivualisés, forkncoffee postule à un partage de réalistion et de documentation palcées dans une géographie contectualisée par le vécu du collectif. 
+Là où les réseaux sociaux proposent un jugement de valeur ou une évaluation par « like » ou « votes » indivualisés, forkncoffee postule à un partage de réalisation et de documentation palcées dans une géographie contectualisée par le vécu du collectif. 
 
 Cela via à « Refaire le monde en tiers-lieux libres et open source » en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés).
 
