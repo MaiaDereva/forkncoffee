@@ -49,19 +49,22 @@ Lors de cette expérience courte mais intense, une petite communauté d'une cinq
 J'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
 Les intuitions qui étaient nées de cette 1ère expéreince sont :
-+ Les conditions et cirocnstances de rencontres sont un schéma = **Pattern**
-+ Des blogs et un site internet avec documentation peuvent préfigurer unesquisse de structure de focntionnement = **Framework**
++ Les conditions et circonstances de rencontres sont un schéma = **Pattern**
++ Des blogs et un site internet avec documentation peuvent préfigurer une squisse de structure de fonctionnement = **Framework**
 + Les cartes que nous faisons avec les histoires qui les accompagnent sont strates géographiques et sociologiques = **Layer**
 
 De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant les mutations du travail et les ogranisations novatrices, soit comme contributeur, soit comme fondateur-contributeur.
 
 Ce qui donne par exemple : 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oNhMK6sgLFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<https://www.youtube.com/embed/oNhMK6sgLFA>
+![](/assets/blog/images/nevez.png)
+
+Dont la dcumentation eest : <http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez>
 
 ### Démarches liées et projets connectés
 
-Ces démarches et projest nourrissent les réfléxions sur les problématiques auxquelles forkncoffee tente de répondre, elles permettent également des apports méthodologiques, techniques et techologiques au projet.
+Ces démarches et projets nourrissent les réfléxions sur les problématiques auxquelles forkncoffee tente de répondre, elles permettent également des apports méthodologiques, techniques et techologiques au projet.
 
 + movilab.org, le wiki des tiers-lieux libres et open source - [contributeur](http://movilab.org/index.php?title=Utilisateur:XavCC)
 + [indiecamp](http://movilab.org/index.php?title=IndieCamp), format libre de tiers-lieux éphémère en milieu rural - fondateur-contributeur
