@@ -135,7 +135,7 @@ Tout en aprenant et en concevant un prototype technologique partagé et document
 
 ### Proposition de valeur
 
-Là où les réseaux sociaux proposent un jugement de valeur ou une évaluation par « like » ou « votes » indivualisés, forkncoffee postule à un partage de réalisation et de documentation palcées dans une géographie contectualisée par le vécu du collectif. 
+ Là où les réseaux sociaux proposent un jugement de valeur ou une évaluation par « like » ou « votes » individualisés, forkncoffee postule à un partage de réalisation et de documentation placées dans une géographie contextualisée par le vécu du collectif avec des ressources libres et open source.  
 
 Cela via à « Refaire le monde en tiers-lieux libres et open source » en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés).
 
