@@ -42,7 +42,7 @@ Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress
 
 > _Les exaptations sont la reconfiguration créative de la technologie par leurs utilisateurs, soit en tant que sous-produit d'une fonction précédente (co-optation), soit en tant que produit d'une fonction précédente (co-option). 
 
-Pour faire plus simple, nous cherchions à concevoir des circonstances de rencontres de rencontres entre individus de sphère professionnelles différentes, nous voulion sfaire tiers-liuex libres presque n'importe où, nous vision les qualités de nos conditions de travail. Café de quartiers, plages, salle associative, appartement, studio d'enregistrement... Nous avons testé de nombreux spots de coworking qui à l'époque semblaient « insolites » pour beaucoup de monde. Cela nous à couté moins cher que les bureaux partagés co-working business de l'époque à Marseille ; cela à permis dse rencontres avec des marin-pécheurs ; cela été fait avec plus de libertés et de conforts que ne le permettaient les espaces auto-proclamés co-working.
+Pour faire plus simple, nous cherchions à concevoir des circonstances de rencontres entre individus de sphère professionnelles différentes, nous voulion sfaire tiers-lieux libres presque n'importe où, nous visions les qualités de nos conditions de travail. Café de quartiers, plages, salle associative, appartement, studio d'enregistrement... Nous avons testé de nombreux spots de coworking qui à l'époque semblaient « insolites » pour beaucoup de monde. Cela nous à couté moins cher que les bureaux partagés co-working business de l'époque à Marseille ; cela à permis dse rencontres avec des marin-pécheurs ; cela été fait avec plus de libertés et de conforts que ne le permettaient les espaces auto-proclamés co-working.
 
 Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés. Nous avons appris que le blogging décrivant lieux et recettes pour traviller de manière insolite pouvait faciliter les circonstances de rencontres.
 
@@ -54,6 +54,10 @@ Les intuitions qui étaient nées de cette 1ère expéreince sont :
 + Les cartes que nous faisons avec les histoires qui les accompagnent sont strates géographiques et sociologiques = **Layer**
 
 De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant les mutations du travail et les ogranisations novatrices, soit comme contributeur, soit comme fondateur-contributeur.
+
+Ce qui donne par exemple : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNhMK6sgLFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Démarches liées et projets connectés
 
@@ -119,7 +123,7 @@ Le plus bel espace pour faire tiers-lieu ou coworking à Nantes ets la serre tro
 
 ![](/assets/blog/images/serre_nantes.jpeg)
 
-À Rennes, un ajrdin de 300 m² sur les bord de la rivière est le contexte méconnu pour se rassembler et travailler à plusieursn sans obligaoirement se connaître en amont, en s'enageant dans une représenation commune et des repsonabbilités partagées.
+À Rennes, un jarrdin de 300 m² sur les bord de la rivière est le contexte méconnu pour se rassembler et travailler à plusieursn sans obligaoirement se connaître en amont, en s'enageant dans une représenation commune et des repsonabbilités partagées.
 ![](/assets/blog/images/rennes-jardin.jpg)
 
 ## Intentions
@@ -128,7 +132,9 @@ Tout en aprenant et en concevant un prototype technologique partagé et document
 
 ### Proposition de valeur
 
-Refaire le monde en tiers-lieux libres et open source en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés).
+Là où les réseaux sociaux proposent un jugement de valeur ou une évaluation par « like » ou « votes » indivualisés, forkncoffee postule à un partage de réalistion et de documentation palcées dans une géographie contectualisée par le vécu du collectif. 
+
+Cela via à « Refaire le monde en tiers-lieux libres et open source » en fournissant prétextes, moyens, outils, techniques, technologies, documentations et rencontres pour que toute personne ou groupe de personne qui le désirent piussent avoir sa propre instance frokncoffee (apellée ainsi ou renommée librement selon les volontés).
 
 ### Gouvernance
 
@@ -141,7 +147,7 @@ _en cours de rédaction_
 
 Forkncoffee est , au 1er juin 2018, porté et développé par Xavier Coadic. Du fait des intentions collaboratives du projet et des licences libres et domaines publiques des codes source et supports annexes, forkncoffee est explicitement ouvert à toute contribution, récupération, modification, sous respect des licences attribuées.
 
-#### Pourqui
+#### Pour qui
 Porteuses ou porteurs de projets collabortifs et/ou coopératifs, individu cherchant des condtions de travail soutenables et partagées, collectif, artisans, entrepreneur⋅e, association, collectivité, entreprise, écoles, universités...
 
 Les mutations du travail et les mutations des conditions d'exercice de son travail ne sont pas limitées à un public cilble mais impactent l'ensmeblent de la population dans des paysages de vies. 
